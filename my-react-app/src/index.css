@@ -1,0 +1,37 @@
+.counter-container{
+    text-align: center ;
+}
+
+.counter-display {
+    font-size: 5em ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ .counter-button{
+    width: 100px;
+    height:  50px;
+    margin:  10px;
+    background-color: rgb(110, 38, 38);
+    color:  white;
+ }
+
+
+.color-picker-container{
+    height:100vh;
+    width:100vw;
+    justify-content: center;
+    justify-items: center;
+}
+
+.color-display{
+    height: 100vh;
+    width:100vw;
+    text-align: center;
+    font-size: 1.5em;
+ 
+}
+
+.car-selctor{
+    width: max-content;
+    display: flex;
+ flex-direction: column;   
+}
